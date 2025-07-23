@@ -44,7 +44,7 @@ The financial bot is designed to handle automated financial queries. To set up a
 ---
 ## Additional Information
 
-For more details about the project, including in-depth discussions, technical explanations, and updates, please check our Medium blog [(https://medium.com/@project-saadhna](https://medium.com/@atharvamundke22/how-to-build-a-financial-advisory-bot-using-rag-with-genai-cbaa963c4222).
+For more details about the project, including in-depth discussions, technical explanations, and updates.
 
 ---
 
